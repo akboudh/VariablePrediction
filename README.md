@@ -3,7 +3,7 @@
 <h2>Description</h2>
 This project aims to predict the presence of heart disease based on patient characteristics using three different machine learning methods: logistic regression, decision trees, and shallow neural networks.
 
-Files included:
+Files used:
 1. heart_disease_prediction.ipynb - Jupyter Notebook containing the implementation of the three methods and analysis of results.
 2. heart_disease_dataset.csv - CSV file containing the "Heart Disease UCI" dataset used for training and testing.
 3. README.md - This file containing detailed information about the project, methods, results, and references.
